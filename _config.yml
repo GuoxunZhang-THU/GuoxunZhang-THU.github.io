@@ -12,7 +12,7 @@ title                    : "Guoxun Zhang"
 title_separator          : "-"
 name                     : &name "Guoxun Zhang"
 description              : &description "a fifth year PhD student from Tsinghua University"
-url                      : https://guoxunzhang-thu.github.io/pp/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://guoxunzhang-thu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GuoxunZhang-THU//GuoxunZhang-THU.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Diving into AI for science"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
-  uri              : https://guoxunzhang-thu.github.io/pp/ # URL
+  uri              : https://guoxunzhang-thu.github.io # URL
   email            : "zhanggx19@mails.tsinghua.edu.cn" 
 
   # Academic websites
