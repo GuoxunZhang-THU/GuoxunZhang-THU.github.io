@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised content-preserving transformation for optical microscopy"
 collection: publications
-permalink: files/UTOM.pdf
+permalink: files/paper1.pdf
 date: 2021-03-01 
 venue: 'Light: Science & Applications'
 paperurl: 'https://www.nature.com/articles/s41377-021-00484-y'
